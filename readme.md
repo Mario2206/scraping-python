@@ -1,4 +1,4 @@
-# Scrapping (PYTHON)
+# Scraping (PYTHON)
 
 ## Target
 
